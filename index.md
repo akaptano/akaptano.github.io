@@ -1,4 +1,5 @@
-## Postdoctoral researcher. Affiliate Assistant Professor. Sparse regression devotee. Fusion scientist. Exoplanet aficionado.
+## Postdoctoral researcher. Affiliate Assistant Professor.
+Sparse regression devotee. Fusion scientist. Exoplanet aficionado.
 
 <a href="https://ireap.umd.edu/postdocs/kaptanoglu-alan"><font color="A83869">Postdoctoral researcher</font></a>
 <br>
@@ -10,10 +11,15 @@
 
 ## Website links
 [Google scholar](https://scholar.google.com/citations?user=GiHQDSUAAAAJ&hl=en&authuser=1)
+<br>
 [Github](https://github.com/akaptano)
+<br>
 [YouTube Channel](https://www.youtube.com/channel/UCOobVcSNKgE5BjiHABQqe2w)
+<br>
 [ResearchGate](https://www.researchgate.net/profile/Alan-Kaptanoglu)
+<br>
 [Linkedin](https://www.linkedin.com/in/alan-kaptanoglu)
+<br>
 [IREAP page](https://ireap.umd.edu/postdocs/kaptanoglu-alan)
 
 ## Upcoming Travel and Talks {#talks}
