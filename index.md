@@ -23,4 +23,4 @@ Sparse regression devotee. Fusion scientist. Exoplanet aficionado.
 [IREAP page](https://ireap.umd.edu/postdocs/kaptanoglu-alan)
 
 ## Upcoming Travel and Talks {#talks}
-* [APS Division of Plasma Physics Annual Meeting](https://meetings.aps.org/Meeting/DPP22/Session/VI02), October 20, 2022.
+* <b>[INVITED]</b> [APS Division of Plasma Physics Annual Meeting](https://meetings.aps.org/Meeting/DPP22/Session/VI02), October 20, 2022.
