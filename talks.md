@@ -1,19 +1,19 @@
 # YouTube Channel
-I have a [YouTube Channel](https://www.youtube.com/channel/UCOobVcSNKgE5BjiHABQqe2w) where I showcase paper abstracts, coding tutorials, and other information. You can find [extended tutorials](https://www.youtube.com/watch?v=SfIJiuJ38W0&list=PLN90bHJU-JLoOfEk0KyBs2qLTV7OkMZ25) on using the PySINDy code there. 
+I have a [YouTube Channel](https://www.youtube.com/channel/UCOobVcSNKgE5BjiHABQqe2w) where I showcase paper abstracts, coding tutorials, and other information. You can find [extended tutorials](https://www.youtube.com/watch?v=SfIJiuJ38W0&list=PLN90bHJU-JLoOfEk0KyBs2qLTV7OkMZ25) on using the PySINDy code there.
 
 # Previous Talks
 
 ## 2022
-[INVITED] [2nd Machine Learning in Heliophysics Conference](https://ml-helio.github.io), Boulder, CO, March 21-25, 2022.
+<b>[INVITED]</b> [2nd Machine Learning in Heliophysics Conference](https://ml-helio.github.io), Boulder, CO, March 21-25, 2022.
 
-[INVITED] [Physical Review Fluids Journal Club](https://www.youtube.com/watch?v=WHBEzOlYNDY&list=PLN90bHJU-JLqECQUk66IibsqrPap17bCm), Online, October 27, 2021.
+<b>[INVITED]</b> [Physical Review Fluids Journal Club](https://www.youtube.com/watch?v=WHBEzOlYNDY&list=PLN90bHJU-JLqECQUk66IibsqrPap17bCm), Online, October 27, 2021.
 
 Machine Learning to Discover Interpretable Models in Fluids and Plasmas.
 Bulletin of the American Physical Society, APS March Meeting (2022).
 
 ## 2021
 Data-driven, interpretable plasma models.
-Sherwood Fusion Theory Conference (2021). Award for best student presentation.
+Sherwood Fusion Theory Conference (2021). <b>Award for best student presentation</b>.
 
 [POSTER] Spatially-localized Alfvén eigenmode classification using convolutional neural networks.
 Bulletin of the American Physical Society. APS Division of Plasma Physics (2021).

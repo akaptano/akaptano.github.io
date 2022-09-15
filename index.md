@@ -9,4 +9,4 @@
 <a href="https://www.me.washington.edu">University of Washington Mechanical Engineering Department</a>
 
 ## Upcoming Travel and Talks {#talks}
-* [APS Division of Plasma Physics Annual Meeting](https://meetings.aps.org/Meeting/DPP22), October 20, 2022.
+* [APS Division of Plasma Physics Annual Meeting](https://meetings.aps.org/Meeting/DPP22/Session/VI02), October 20, 2022.

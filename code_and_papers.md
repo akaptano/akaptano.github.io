@@ -1,18 +1,22 @@
 # [Code](#code) and [Papers](#papers)
 
 ## Code {#code}
-[back to top](/code_and_papers)
 
-* ### [`PySINDy`](https://github.com/dynamicslab/pysindy)
+* ### [`PySINDy: A comprehensive Python package for robust sparse system identification`](https://github.com/dynamicslab/pysindy)
 PySINDy is a sparse regression package with several implementations for the Sparse Identification of Nonlinear Dynamical systems (SINDy) method for the data-driven discovery of governing equations. The newest Journal of Open Science (JOSS) paper can be found [here](https://doi.org/10.21105/joss.03994).
 
-* ### [`SIMSOPT`: A flexible framework for stellarator optimization](https://github.com/hiddenSymmetries/simsopt) SIMSOPT is a collection of software for carrying out stellarator optimizations (stellarators are a candidate for future nuclear fusion reactors). The newest Journal of Open Science (JOSS) paper can be found [here](https://doi.org/10.21105/joss.03525).
+* ### [`SIMSOPT: A flexible framework for stellarator optimization`](https://github.com/hiddenSymmetries/simsopt) SIMSOPT is a collection of software for carrying out stellarator optimizations (stellarators are a candidate for future nuclear fusion reactors). The newest Journal of Open Science (JOSS) paper can be found [here](https://doi.org/10.21105/joss.03525).
+
+Both codes are large collaborative efforts with many other researchers.
 
 ## Publications and preprints {#papers}
-[back to top](/code_and_papers)
+
+* ### [Greedy permanent magnet optimization](https://arxiv.org/abs/2208.10620)
+A. Kaptanoglu, Rory Conlin, and Matt Landreman (2022). [arXiv:2208.10620](https://arxiv.org/abs/2208.10620)
+[code repository](https://github.com/hiddenSymmetries/simsopt/tree/permanent_magnets)
 
 * ### [Permanent magnet optimization for stellarators as sparse regression](https://arxiv.org/abs/2207.08984)
-A. Kaptanoglu, T. Qian, F. Wechsung, and M. Landreman. Physical Review Applied (2022). [arXiv:2207.08984](https://arxiv.org/abs/2207.08984)
+A. Kaptanoglu, T. Qian, F. Wechsung, and M. Landreman. Physical Review Applied (2022). [arXiv:2207.08984](https://arxiv.org/abs/2207.08984).
 [code repository](https://github.com/hiddenSymmetries/simsopt/tree/permanent_magnets)
 
 * ### [PySINDy: A comprehensive Python package for robust sparse system identification](https://doi.org/10.21105/joss.03994)
@@ -26,29 +30,25 @@ A. Kaptanoglu, A. Jalalvand, A. Garcia, M. Austin, G. Verdoolaege, J. Schneider,
 M. Fenstermacher, J. Abbate, S. Abe, T. Abrams, ..., A. Kaptanoglu, et al. Nuclear Fusion (2022).
 
 * ### [Promoting  global  stability  in  data-driven  models  of quadratic nonlinear dynamics](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.094401)
-A. Kaptanoglu, J. Callaham, A. Aravkin, C. Hansen, and S. Brunton. Phys. Rev. Fluids (2021). Selected as an Editor’s Suggestion paper.
+A. Kaptanoglu, J. Callaham, A. Aravkin, C. Hansen, and S. Brunton. Phys. Rev. Fluids (2021). <b>Selected as an Editor’s Suggestion paper</b>.
 [PySINDy code repository](https://github.com/dynamicslab/pysindy)
 
 * ### [Physics-constrained, low-dimensional models for magnetohydrodynamics: First-principles and data-driven approaches](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.015206)
 A. Kaptanoglu, K. Morgan, C. Hansen, and S. Brunton. Physical Review E (2021).
-[PySINDy code repository](https://github.com/dynamicslab/pysindy)
+[PySINDy code repository](https://github.com/dynamicslab/pysindy) and [original code repository](https://github.com/akaptano/POD-Galerkin_MHD)
 
 * ### [Alfvén eigenmode classification based on ECE diagnostics at DIII-D using deep recurrent neural networks](https://iopscience.iop.org/article/10.1088/1741-4326/ac3be7/meta)
 A. Jalalvand, A. Kaptanoglu, A. Garcia, A. Nelson, J. Abbate, M. Austin, G. Verdoolaege, S. Brunton, W. Heidbrink, E. Kolemen. Nuclear Fusion (2021).
 
 * ### [Characterizing magnetized plasmas with dynamic mode decomposition](https://aip.scitation.org/doi/full/10.1063/1.5138932)
-A. Kaptanoglu, K. Morgan, C. Hansen, and S. Brunton. Physics of Plasmas (2020). [arXiv:2102.03024](https://arxiv.org/abs/2102.03024)
+A. Kaptanoglu, K. Morgan, C. Hansen, and S. Brunton. Physics of Plasmas (2020). [arXiv:2102.03024](https://arxiv.org/abs/2102.03024).
 [code repository](https://github.com/akaptano/PlasmaPhysics_DMD)
 
 * ### [Two-temperature effects in Hall-MHD simulations of the HIT-SI experiment](https://aip.scitation.org/doi/full/10.1063/5.0006311)
 A. Kaptanoglu, T. Benedett, K. Morgan, C. Hansen, and T. Jarboe. Physics of Plasmas (2020).
 
-* ### [Greedy permanent magnet optimization](https://arxiv.org/abs/2208.10620)
-A. Kaptanoglu, Rory Conlin, and Matt Landreman (2022). [arXiv:2208.10620](https://arxiv.org/abs/2208.10620)
-[code repository](https://github.com/hiddenSymmetries/simsopt/tree/permanent_magnets)
-
 * ### [A comparison of Fourier and POD mode decomposition methods for high-speed Hall thruster video](https://arxiv.org/abs/2205.14207)
-J. Brooks, M. McDonald, and A. Kaptanoglu (2021). [arXiv:2205.14207](https://arxiv.org/abs/2205.14207)
+J. Brooks, M. McDonald, and A. Kaptanoglu (2021). [arXiv:2205.14207](https://arxiv.org/abs/2205.14207).
 <br>
 [code repository](https://zenodo.org/record/5150716#.YyOAdi-B30o)
 
