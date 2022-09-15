@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+title: Alan A. Kaptanoglu
+author: Alan A. Kaptanoglu
+logo: headshot_AlanKaptanoglu.jpg
+plugins:
+  - jekyll-seo-tag
