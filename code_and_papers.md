@@ -5,14 +5,15 @@
 * ### [`PySINDy: A comprehensive Python package for robust sparse system identification`](https://github.com/dynamicslab/pysindy)
 PySINDy is a sparse regression package with several implementations for the Sparse Identification of Nonlinear Dynamical systems (SINDy) method for the data-driven discovery of governing equations. The newest Journal of Open Science (JOSS) paper can be found [here](https://doi.org/10.21105/joss.03994).
 
-* ### [`SIMSOPT: A flexible framework for stellarator optimization`](https://github.com/hiddenSymmetries/simsopt) SIMSOPT is a collection of software for carrying out stellarator optimizations (stellarators are a candidate for future nuclear fusion reactors). The newest Journal of Open Science (JOSS) paper can be found [here](https://doi.org/10.21105/joss.03525).
+* ### [`SIMSOPT: A flexible framework for stellarator optimization`](https://github.com/hiddenSymmetries/simsopt)
+SIMSOPT is a collection of software for carrying out stellarator optimizations (stellarators are a candidate for future nuclear fusion reactors). The newest Journal of Open Science (JOSS) paper can be found [here](https://doi.org/10.21105/joss.03525).
 
 Both codes are large collaborative efforts with many other researchers.
 
 ## Publications and preprints {#papers}
 
 * ### [Greedy permanent magnet optimization](https://arxiv.org/abs/2208.10620)
-A. Kaptanoglu, Rory Conlin, and Matt Landreman (2022). [arXiv:2208.10620](https://arxiv.org/abs/2208.10620)
+A. Kaptanoglu, Rory Conlin, and Matt Landreman (2022). [arXiv:2208.10620](https://arxiv.org/abs/2208.10620).
 [code repository](https://github.com/hiddenSymmetries/simsopt/tree/permanent_magnets)
 
 * ### [Permanent magnet optimization for stellarators as sparse regression](https://arxiv.org/abs/2207.08984)
