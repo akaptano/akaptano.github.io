@@ -17,7 +17,7 @@ A. Kaptanoglu, Rory Conlin, and Matt Landreman (2022). [arXiv:2208.10620](https:
 [code repository](https://github.com/hiddenSymmetries/simsopt/tree/permanent_magnets)
 
 * ### [Permanent magnet optimization for stellarators as sparse regression](https://arxiv.org/abs/2207.08984)
-A. Kaptanoglu, T. Qian, F. Wechsung, and M. Landreman. Physical Review Applied (2022). [arXiv:2207.08984](https://arxiv.org/abs/2207.08984).
+A. Kaptanoglu, T. Qian, F. Wechsung, and M. Landreman. Physical Review Applied (2022). <b>Selected as an Editor’s Suggestion paper</b>. [arXiv:2207.08984](https://arxiv.org/abs/2207.08984).
 [code repository](https://github.com/hiddenSymmetries/simsopt/tree/permanent_magnets)
 
 * ### [PySINDy: A comprehensive Python package for robust sparse system identification](https://doi.org/10.21105/joss.03994)
