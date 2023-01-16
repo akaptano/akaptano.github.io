@@ -4,6 +4,8 @@ I have a [YouTube Channel](https://www.youtube.com/channel/UCOobVcSNKgE5BjiHABQq
 # Previous Talks
 
 ## 2022
+<b>[INVITED]</b> [APS Division of Plasma Physics Annual Meeting](https://meetings.aps.org/Meeting/DPP22/Session/VI02), October 20, 2022.
+
 <b>[INVITED]</b> [2nd Machine Learning in Heliophysics Conference](https://ml-helio.github.io), Boulder, CO, March 21-25, 2022.
 
 Machine Learning to Discover Interpretable Models in Fluids and Plasmas.

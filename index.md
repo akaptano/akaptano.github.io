@@ -23,4 +23,4 @@ Sparse regression devotee. Fusion scientist. Exoplanet aficionado.
 [IREAP page](https://ireap.umd.edu/postdocs/kaptanoglu-alan)
 
 ## Upcoming Travel and Talks {#talks}
-* <b>[INVITED]</b> [APS Division of Plasma Physics Annual Meeting](https://meetings.aps.org/Meeting/DPP22/Session/VI02), October 20, 2022.
+* Simons Foundation Hidden Symmetries Group meeting, March 20-25, Princeton & NYC

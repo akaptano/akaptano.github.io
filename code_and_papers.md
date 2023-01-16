@@ -14,7 +14,7 @@ Both codes are large collaborative efforts with many other researchers.
 
 * ### [Greedy permanent magnet optimization](https://arxiv.org/abs/2208.10620)
 A. Kaptanoglu, Rory Conlin, and Matt Landreman (2022). [arXiv:2208.10620](https://arxiv.org/abs/2208.10620).
-[code repository](https://github.com/hiddenSymmetries/simsopt/tree/permanent_magnets)
+[code repository](https://github.com/hiddenSymmetries/simsopt/tree/permanent_magnets). Submitted to Nuclear Fusion.
 
 * ### [Permanent magnet optimization for stellarators as sparse regression](https://arxiv.org/abs/2207.08984)
 A. Kaptanoglu, T. Qian, F. Wechsung, and M. Landreman. Physical Review Applied (2022). <b>Selected as an Editor’s Suggestion paper</b>. [arXiv:2207.08984](https://arxiv.org/abs/2207.08984).
