@@ -5,7 +5,7 @@ Sparse regression devotee. Fusion scientist. Exoplanet aficionado.
 <br>
 <a href="https://ireap.umd.edu">University of Maryland Institute for Research in Electronics and Applied Physics (IREAP)</a>
 
-<a><font color="A83869">Affiliate Assistant Professor, </font></a>
+<a><font color="A83869">Affiliate Assistant Professor </font></a>
 <br>
 <a href="https://www.me.washington.edu">University of Washington Mechanical Engineering Department</a>
 
