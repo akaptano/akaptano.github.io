@@ -12,17 +12,18 @@ Both codes are large collaborative efforts with many other researchers.
 
 ## Publications and preprints {#papers}
 
-* ### [Sparse regression for plasma physics]
+* ### Sparse regression for plasma physics
 A. Kaptanoglu, C. Hansen, M. Landreman, and S. Brunton. Submitted to Physics of Plasmas (2023).
 
-* ### [Time-Dependent SOLPS-ITER Simulations of the Tokamak Plasma Boundary for Model Predictive Control using SINDy]
+* ### Time-Dependent SOLPS-ITER Simulations of the Tokamak Plasma Boundary for Model Predictive Control using SINDy
 J. Lore, S. Pascuale, P. Laiu, B. Russo, J.-S. Park, J.M. Park, S. Brunton, J.N. Kutz, A. Kaptanoglu. Submitted to Nuclear Fusion (2023).
 
-* ### [Greedy permanent magnet optimization](https://arxiv.org/abs/2208.10620)
+* ### [Greedy permanent magnet optimization](https://iopscience.iop.org/article/10.1088/1741-4326/acb4a9/)
 A. Kaptanoglu, R. Conlin, and M. Landreman. Nuclear Fusion (2023).
-[code repository](https://github.com/hiddenSymmetries/simsopt/tree/permanent_magnets). 
+[arXiv:2208.10620](https://arxiv.org/abs/2208.10620). 
+[code repository](https://github.com/hiddenSymmetries/simsopt/tree/permanent_magnets).
 
-* ### [Permanent magnet optimization for stellarators as sparse regression](https://arxiv.org/abs/2207.08984)
+* ### [Permanent magnet optimization for stellarators as sparse regression](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.044006)
 A. Kaptanoglu, T. Qian, F. Wechsung, and M. Landreman. Physical Review Applied (2022). <b>Selected as an Editor’s Suggestion paper</b>. [arXiv:2207.08984](https://arxiv.org/abs/2207.08984).
 [code repository](https://github.com/hiddenSymmetries/simsopt/tree/permanent_magnets)
 
