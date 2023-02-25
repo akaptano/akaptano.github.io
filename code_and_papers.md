@@ -15,8 +15,11 @@ Both codes are large collaborative efforts with many other researchers.
 * ### Sparse regression for plasma physics
 A. Kaptanoglu, C. Hansen, M. Landreman, and S. Brunton. Submitted to Physics of Plasmas (2023).
 
-* ### Time-Dependent SOLPS-ITER Simulations of the Tokamak Plasma Boundary for Model Predictive Control using SINDy
-J. Lore, S. Pascuale, P. Laiu, B. Russo, J.-S. Park, J.M. Park, S. Brunton, J.N. Kutz, A. Kaptanoglu. Submitted to Nuclear Fusion (2023).
+* ### Benchmarking sparse system identification with low-dimensional chaos](https://arxiv.org/abs/2302.10787)
+A. Kaptanoglu, L. Zhang, Z. Nicolaou, U. Fasel, S. Brunton. [arXiv:2302.10787](https://arxiv.org/abs/2302.10787).
+
+* ### [Time-Dependent SOLPS-ITER Simulations of the Tokamak Plasma Boundary for Model Predictive Control using SINDy](https://iopscience.iop.org/article/10.1088/1741-4326/acbe0e/meta)
+J. Lore, S. Pascuale, P. Laiu, B. Russo, J.-S. Park, J.M. Park, S. Brunton, J.N. Kutz, A. Kaptanoglu. Nuclear Fusion (2023).
 
 * ### [Greedy permanent magnet optimization](https://iopscience.iop.org/article/10.1088/1741-4326/acb4a9/)
 A. Kaptanoglu, R. Conlin, and M. Landreman. Nuclear Fusion (2023).
