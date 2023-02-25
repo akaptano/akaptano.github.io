@@ -13,7 +13,7 @@ Both codes are large collaborative efforts with many other researchers.
 ## Publications and preprints {#papers}
 
 * ### Sparse regression for plasma physics
-A. Kaptanoglu, C. Hansen, M. Landreman, and S. Brunton. Submitted to Physics of Plasmas (2023).
+A. Kaptanoglu, C. Hansen, J. Lore, M. Landreman, and S. Brunton. Submitted to Physics of Plasmas (2023).
 
 * ### [Benchmarking sparse system identification with low-dimensional chaos](https://arxiv.org/abs/2302.10787)
 A. Kaptanoglu, L. Zhang, Z. Nicolaou, U. Fasel, S. Brunton. [arXiv:2302.10787](https://arxiv.org/abs/2302.10787).
