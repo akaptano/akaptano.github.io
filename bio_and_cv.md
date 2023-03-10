@@ -2,7 +2,7 @@
 
 Alan Kaptanoglu is a post-doctoral researcher in the Institute for Research in Electronics and Applied Physics (IREAP) at the University of Maryland. Alan earned his BS in Physics from Stanford in 2016 and his PhD in Physics from the University of Washington in 2021. His work lies at the intersection of two grand scientific challenges: <b>physics-informed, scientific machine learning for complex dynamical systems</b> and <b>nuclear fusion</b>. His vision is to advance these fields by providing theoretical and computational tools for modeling, control, and optimization of complex dynamics.
 
-## [Full CV](pdfs/AlanKaptanoglu_CV_2-25-23.pdf)
+## [Full CV](pdfs/AlanKaptanoglu_CV_03-10-23.pdf)
 
 ## Education
 
