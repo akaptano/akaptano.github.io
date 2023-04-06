@@ -16,8 +16,6 @@ Sparse regression devotee. Fusion scientist. Exoplanet aficionado.
 <br>
 [YouTube Channel](https://www.youtube.com/channel/UCOobVcSNKgE5BjiHABQqe2w)
 <br>
-[ResearchGate](https://www.researchgate.net/profile/Alan-Kaptanoglu)
-<br>
 [Linkedin](https://www.linkedin.com/in/alan-kaptanoglu)
 <br>
 [IREAP page](https://ireap.umd.edu/postdocs/kaptanoglu-alan)
