@@ -10,6 +10,7 @@ Fusion scientist. Sparse regression devotee. Exoplanet aficionado.
 <a href="https://www.me.washington.edu">University of Washington Mechanical Engineering Department</a>
 
 <a><font color="A83869">(Previous Position) Postdoctoral researcher</font></a>
+<a>IREAP Department, University of Maryland, Matt Landreman group</a>
 
 
 ## Website links
