@@ -12,11 +12,17 @@ Both codes are large collaborative efforts with many other researchers.
 
 ## Publications and preprints {#papers}
 
-* ### Sparse regression for plasma physics
+* ### Nonlinear parametric models of viscoelastic fluid flows
+C. Oishi, A. Kaptanoglu, J.N. Kutz, S. Brunton. (2023). [arXiv:2308.04405](https://arxiv.org/abs/2308.04405). 
+
+* ### Topology optimization for inverse magnetostatics as sparse regression: application to electromagnetic coils for stellarators
+A. Kaptanoglu, G. Langlois, M. Landreman. (2023). [arXiv:2306.12555](https://arxiv.org/abs/2306.12555).
+
+* ### [Sparse regression for plasma physics](https://pubs.aip.org/aip/pop/article/30/3/033906/2881938)
 A. Kaptanoglu, C. Hansen, J. Lore, M. Landreman, and S. Brunton. Physics of Plasmas (2023). <b>Selected as an Editor’s Suggestion paper</b>.
 
-* ### [Benchmarking sparse system identification with low-dimensional chaos](https://arxiv.org/abs/2302.10787)
-A. Kaptanoglu, L. Zhang, Z. Nicolaou, U. Fasel, S. Brunton. [arXiv:2302.10787](https://arxiv.org/abs/2302.10787).
+* ### [Benchmarking sparse system identification with low-dimensional chaos](https://link.springer.com/article/10.1007/s11071-023-08525-4)
+A. Kaptanoglu, L. Zhang, Z. Nicolaou, U. Fasel, S. Brunton. (2023). [arXiv:2302.10787](https://arxiv.org/abs/2302.10787).
 
 * ### [Time-Dependent SOLPS-ITER Simulations of the Tokamak Plasma Boundary for Model Predictive Control using SINDy](https://iopscience.iop.org/article/10.1088/1741-4326/acbe0e/meta)
 J. Lore, S. Pascuale, P. Laiu, B. Russo, J.-S. Park, J.M. Park, S. Brunton, J.N. Kutz, A. Kaptanoglu. Nuclear Fusion (2023).

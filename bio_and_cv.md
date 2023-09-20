@@ -1,8 +1,11 @@
 # Bio and CV
 
-Alan Kaptanoglu is a post-doctoral researcher in the Institute for Research in Electronics and Applied Physics (IREAP) at the University of Maryland. Alan earned his BS in Physics from Stanford in 2016 and his PhD in Physics from the University of Washington in 2021. His work lies at the intersection of two grand scientific challenges: <b>physics-informed, scientific machine learning for complex dynamical systems</b> and <b>nuclear fusion</b>. His vision is to advance these fields by providing theoretical and computational tools for modeling, control, and optimization of complex dynamics.
+Alan Kaptanoglu is an Assistant Professor in the Math department at NYU (part of the Courant Institute). 
+He was previously a post-doctoral researcher in the Institute for Research in Electronics and Applied Physics (IREAP) at the University of Maryland. 
+Alan earned his BS in Physics from Stanford in 2016 and his PhD in Physics from the University of Washington in 2021. 
+His work lies at the intersection of two grand scientific challenges: <b>physics-informed, scientific machine learning for complex dynamical systems</b> and <b>nuclear fusion</b>. His vision is to advance these fields by providing theoretical and computational tools for modeling, control, and optimization of complex dynamics.
 
-## [Full CV](pdfs/AlanKaptanoglu_CV_03-10-23.pdf)
+## [Full CV](pdfs/AlanKaptanoglu_CV_09-20-23.pdf)
 
 ## Education
 
@@ -12,16 +15,21 @@ B.S. in Physics, Theoretical Concentration, <b>Stanford University</b> (2016)
 
 ## Research Positions
 
-* ### Postdoctoral Researcher
-<i>[Landreman Group](https://terpconnect.umd.edu/~mattland/)
-IREAP, University of Maryland</i>
+* ### Assistant Professor
+<i>Mathematics Department, Courant Institute, New York University</i>
 <br>
-<b>(March 2022 - Current)</b>
+<b>(September 2023 - Current)</b>
 
 * ### Affiliate Assistant Professor
 <i>Department of Mechanical Engineering, University of Washington</i>
 <br>
 <b>(March 2022 - Current)</b>
+
+* ### Postdoctoral Researcher
+<i>[Landreman Group](https://terpconnect.umd.edu/~mattland/)
+IREAP, University of Maryland</i>
+<br>
+<b>(March 2022 - July 2023)</b>
 
 * ### Postdoctoral Researcher
 <i>[Brunton Group](https://www.eigensteve.com)
